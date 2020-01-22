@@ -8,6 +8,7 @@ namespace Day_2_Class
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to GitHub");
+            Console.WriteLine("Change1");
             Console.ReadLine();
         }
     }
